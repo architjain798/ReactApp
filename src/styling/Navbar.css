@@ -1,0 +1,15 @@
+.navbar {
+  width: 90vw;
+  height: auto;
+  background-color: #cccce5;
+  margin: auto;
+  position: flex;
+  left: 4%;
+  top: 5%;
+}
+.navbar li {
+  display: inline;
+  font-size: 1.5rem;
+  margin: 1%;
+  padding: 2%;
+}

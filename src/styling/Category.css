@@ -1,0 +1,27 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.category {
+  width: 20em;
+  height: 18em;
+  border: 1px outset wheat;
+  border-radius: 10px;
+  background-color: #fff6e4;
+  box-shadow: 4px 4px 4px 4px white;
+}
+.checkbox-item {
+  padding: 3%;
+  margin: 2%;
+  font-size: 1em;
+}
+.checkbox-item label {
+  margin-left: 5px;
+}
+.checkbox-item h2 {
+  margin: 2%;
+  padding: 2%;
+  border: 1px solid white;
+  background-color: #ffe3aa;
+}

@@ -1,0 +1,11 @@
+*{
+  margin:0%;
+  padding:0%;
+  box-sizing:border-box;
+}
+.footer{
+  margin:2%;
+  padding:2%;
+  background-color:white;
+  font-size:1.1em;
+}
